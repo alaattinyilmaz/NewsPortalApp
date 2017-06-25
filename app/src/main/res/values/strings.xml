@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewsPortalApp</string>
+
+    <string name="category_prompt">Categories</string>
+
+    <string-array name="categories">
+        <item>All</item>
+        <item>Economics</item>
+        <item>Politics</item>
+        <item>Sports</item>
+    </string-array>
+
+
+</resources>
